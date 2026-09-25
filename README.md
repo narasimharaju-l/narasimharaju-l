@@ -1,13 +1,11 @@
 # Hi there, I'm Narasimharaju L 👋
 
 ### 👨‍💻 About Me
-* **Senior Specialist - Software Engineering / Lead Full-Stack Developer** with over **12 years of experience** specializing in Microsoft .NET ecosystem, Cloud, and Frontend frameworks.
-* 🔭 Currently working at **LTIMindtree** delivering enterprise business support systems (BSS) and microservice architectures.
+* **Principal Software Engineer** with over **13 years of experience** specializing in Microsoft .NET ecosystem, Cloud, and Frontend frameworks.
+* 🔭 Currently working at **ABB Global Industries and Services Private Limited** delivering enterprise business support systems (BSS) and microservice architectures.
 * 🎯 Core focus: **.NET Core, Microservices, Angular, React, Azure Cloud & DevOps, Kubernetes, and Modern DBs**.
 * 💬 Ask me about: **System Architecture, OOP/SOLID principles, TDD, CQRS, and Microservices Integration**.
-* 📧 Email: [writetonarasimharaju@gmail.com](mailto:writetonarasimharaju@gmail.com)[cite: 1]
-* 📱 Phone: +91-9448142625[cite: 1]
-* 📍 Location: Karnataka, India[cite: 1]
+* 📍 Location: Karnataka, India
 
 ---
 
@@ -45,24 +43,22 @@
 ---
 
 ### 💼 Career Experience Highlights
-
-* **LTIMindtree** | Senior Specialist - Software Engineering *(Oct 2023 – Present)*[cite: 1]
-  * Architected and developed enterprise BSS Admin UI and API Repository systems using .NET Microservices, Angular 10, React.js, and Azure Kubernetes[cite: 1].
-* **TATA Consultancy Services (TCS) / BT eServ** | I.T Analyst & Design Engineer Professional *(Feb 2020 – Oct 2023)*[cite: 1]
-  * Led development on UKB Agent Online Portal for British Telecom using .NET Core Web APIs, Angular 8, Microservices, and Azure DevOps CI/CD pipelines[cite: 1].
-* **ThoughtFocus IT** | Senior Engineer *(Dec 2018 – Feb 2020)*[cite: 1]
-  * Built payment gateway onboarding solutions (MSD) using .NET Core Microservices, Angular 6, and RabbitMQ[cite: 1].
-* **NTT DATA GDS** | Software Development Analyst *(May 2017 – Dec 2018)*[cite: 1]
-  * Developed Candidate Lifecycle Management (CLM) systems for Fidelity Investments using ASP.NET MVC 5 and AngularJS[cite: 1].
+* **ABB Global Industries and Services Private Limited** | Principal Software Engineer *(May 2025 – Present)
+* **LTIMindtree** | Senior Specialist - Software Engineering *(Oct 2023 – May 2025)*
+* **TATA Consultancy Services(BT Strategic Partnerships)** | I.T Analyst & Design Engineer Professional *(April 2023 – Oct 2023)*
+* **British Telecom** | I.T Analyst & Design Engineer Professional *(Feb 2020 – Mar 2023)*
+* **ThoughtFocus** | Senior Engineer *(Dec 2018 – Feb 2020)
+* **NTT DATA GDS** | Software Development Analyst *(May 2017 – Dec 2018)
+* **Startup(ViCoast)** | Software Engineer I *(Jul 2013 – Apr 2017)
 
 ---
 
 ### 📜 Certifications & Education
-* 🎓 **B.E in Information Science & Engineering** – Visvesvaraya Technological University (V.T.U)[cite: 1]
-* 📜 Pursuing **Microsoft Azure Fundamentals (AZ-900)** & **Microsoft Azure Developer Associate (AZ-204)**[cite: 1]
+* 🎓 **B.E in Information Science & Engineering** – Visvesvaraya Technological University (V.T.U)
+* 📜 Pursued **Microsoft Azure Fundamentals (AZ-900)**
 
 ---
 
 ### 📊 GitHub Stats
-![Narasimharaju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
+![Narasimharaju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narasimharaju-l&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narasimharaju-l&layout=compact&theme=tokyonight)
