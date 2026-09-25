@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 * **Principal Software Engineer** with over **13 years of experience** specializing in Microsoft .NET ecosystem, Cloud, and Frontend frameworks.
-* 🔭 Currently working at **ABB Global Industries and Services Private Limited** delivering enterprise business support systems (BSS) and microservice architectures.
+* 🔭 Currently working at **ABB Global Industries and Services Private Limited**
 * 🎯 Core focus: **.NET Core, Microservices, Angular, React, Azure Cloud & DevOps, Kubernetes, and Modern DBs**.
 * 💬 Ask me about: **System Architecture, OOP/SOLID principles, TDD, CQRS, and Microservices Integration**.
 * 📍 Location: Karnataka, India
@@ -43,13 +43,13 @@
 ---
 
 ### 💼 Career Experience Highlights
-* **ABB Global Industries and Services Private Limited** | Principal Software Engineer *(May 2025 – Present)
+* **ABB Global Industries and Services Private Limited** | Principal Software Engineer *(May 2025 – Present)*
 * **LTIMindtree** | Senior Specialist - Software Engineering *(Oct 2023 – May 2025)*
 * **TATA Consultancy Services(BT Strategic Partnerships)** | I.T Analyst & Design Engineer Professional *(April 2023 – Oct 2023)*
 * **British Telecom** | I.T Analyst & Design Engineer Professional *(Feb 2020 – Mar 2023)*
-* **ThoughtFocus** | Senior Engineer *(Dec 2018 – Feb 2020)
-* **NTT DATA GDS** | Software Development Analyst *(May 2017 – Dec 2018)
-* **Startup(ViCoast)** | Software Engineer I *(Jul 2013 – Apr 2017)
+* **ThoughtFocus** | Senior Engineer *(Dec 2018 – Feb 2020)*
+* **NTT DATA GDS** | Software Development Analyst *(May 2017 – Dec 2018)*
+* **Startup(ViCoast)** | Software Engineer I *(Jul 2013 – Apr 2017)*
 
 ---
 
