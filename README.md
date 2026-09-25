@@ -58,7 +58,3 @@
 * 📜 Pursued **Microsoft Azure Fundamentals (AZ-900)**
 
 ---
-
-### 📊 GitHub Stats
-![Narasimharaju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narasimharaju-l&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narasimharaju-l&layout=compact&theme=tokyonight)
