@@ -1,7 +1,7 @@
 # Hi there, I'm Narasimharaju L 👋
 
 ### 👨‍💻 About Me
-* **Principal Software Engineer** with over **13 years of experience** specializing in Microsoft .NET ecosystem, Cloud, and Frontend frameworks.
+* **Principal Software Engineer** with over **13+ years of experience** specializing in Microsoft .NET ecosystem, Cloud, and Frontend frameworks.
 * 🔭 Currently working at **ABB Global Industries and Services Private Limited**
 * 🎯 Core focus: **.NET Core, Microservices, Angular, React, Azure Cloud & DevOps, Kubernetes, and Modern DBs**.
 * 💬 Ask me about: **System Architecture, OOP/SOLID principles, TDD, CQRS, and Microservices Integration**.
